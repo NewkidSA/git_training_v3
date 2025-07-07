@@ -2,3 +2,4 @@ This is sample task 1
 This is github
 sample file 1
 This is Comparion lecture
+this is Stash lecture, change in file 1

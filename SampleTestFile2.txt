@@ -1,1 +1,2 @@
 This is Comparion lecture, Change in file 2
+this is Stash lecture, change in file 2
